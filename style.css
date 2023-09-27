@@ -10,7 +10,7 @@ body {
 .main {
     display: flex;
     height: 100vh;
-    padding: 6.6rem 0.5rem;
+    padding: 0.5rem;
 }
 
 .sidebar {
@@ -26,7 +26,7 @@ body {
     border-radius: 1rem;
     overflow: auto;
     padding: 0 1.5rem;
-    padding-bottom: 6rem;
+    padding-bottom: 4rem;
 }
 
 ::-webkit-scrollbar{
